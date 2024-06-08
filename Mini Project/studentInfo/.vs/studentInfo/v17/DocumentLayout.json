@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\mainfrm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\mainfrm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|c:\\users\\acer\\onedrive - oxfordcollege.edu.np\\desktop\\classactivity\\dotnet\\mini project\\studentinfo\\studentinfo\\viewroom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\viewroom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|c:\\users\\acer\\onedrive - oxfordcollege.edu.np\\desktop\\classactivity\\dotnet\\mini project\\studentinfo\\studentinfo\\generateroom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\generateroom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|c:\\users\\acer\\onedrive - oxfordcollege.edu.np\\desktop\\classactivity\\dotnet\\mini project\\studentinfo\\studentinfo\\generateroom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\generateroom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\studentlist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentlist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\studentsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|c:\\users\\acer\\onedrive - oxfordcollege.edu.np\\desktop\\classactivity\\dotnet\\mini project\\studentinfo\\studentinfo\\studentsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\studentupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\studentremove.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentremove.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\studentupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\studentadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\studentremove.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentremove.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\studentadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\mainfrm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\mainfrm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|c:\\users\\acer\\onedrive - oxfordcollege.edu.np\\desktop\\classactivity\\dotnet\\mini project\\studentinfo\\studentinfo\\studentlist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentlist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|c:\\users\\acer\\onedrive - oxfordcollege.edu.np\\desktop\\classactivity\\dotnet\\mini project\\studentinfo\\studentinfo\\viewroom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\viewroom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentinfo\\studentadd.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B2F89420-E0E9-490F-8BF0-91983BA2993C}|studentInfo\\studentInfo.vbproj|solutionrelative:studentinfo\\studentadd.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\Dashboard.vb",
+              "RelativeDocumentMoniker": "studentInfo\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\Dashboard.vb [Design]",
+              "RelativeToolTip": "studentInfo\\Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T08:32:09.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "generateRoom.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\generateRoom.vb",
+              "RelativeDocumentMoniker": "studentInfo\\generateRoom.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\generateRoom.vb",
+              "RelativeToolTip": "studentInfo\\generateRoom.vb",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwEMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-08T12:17:24.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\Dashboard.vb",
+              "RelativeDocumentMoniker": "studentInfo\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\Dashboard.vb",
+              "RelativeToolTip": "studentInfo\\Dashboard.vb",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T08:33:51.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewRoom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\viewRoom.vb",
+              "RelativeDocumentMoniker": "studentInfo\\viewRoom.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\viewRoom.vb [Design]",
+              "RelativeToolTip": "studentInfo\\viewRoom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-08T12:39:20.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainFrm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\mainFrm.vb",
+              "RelativeDocumentMoniker": "studentInfo\\mainFrm.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\mainFrm.vb [Design]",
+              "RelativeToolTip": "studentInfo\\mainFrm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T07:00:50.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "generateRoom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\generateRoom.vb",
+              "RelativeDocumentMoniker": "studentInfo\\generateRoom.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\generateRoom.vb [Design]",
+              "RelativeToolTip": "studentInfo\\generateRoom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-08T12:16:39.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "studentlist.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentlist.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentlist.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentlist.vb [Design]",
+              "RelativeToolTip": "studentInfo\\studentlist.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T10:02:44.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "studentsearch.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentsearch.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentsearch.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentsearch.vb",
+              "RelativeToolTip": "studentInfo\\studentsearch.vb",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-08T07:52:30.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "studentsearch.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentsearch.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentsearch.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentsearch.vb [Design]",
+              "RelativeToolTip": "studentInfo\\studentsearch.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T10:03:26.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "studentupdate.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentupdate.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentupdate.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentupdate.vb",
+              "RelativeToolTip": "studentInfo\\studentupdate.vb",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAwwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T09:53:51.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "studentupdate.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentupdate.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentupdate.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentupdate.vb [Design]",
+              "RelativeToolTip": "studentInfo\\studentupdate.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T09:53:15.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "studentremove.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentremove.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentremove.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentremove.vb",
+              "RelativeToolTip": "studentInfo\\studentremove.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvw8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T04:24:44.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "studentremove.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentremove.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentremove.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentremove.vb [Design]",
+              "RelativeToolTip": "studentInfo\\studentremove.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T10:02:16.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "studentAdd.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentAdd.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentAdd.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentAdd.vb [Design]",
+              "RelativeToolTip": "studentInfo\\studentAdd.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T09:43:31.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "studentAdd.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentAdd.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentAdd.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentAdd.vb",
+              "RelativeToolTip": "studentInfo\\studentAdd.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T09:46:00.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "mainFrm.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\mainFrm.vb",
+              "RelativeDocumentMoniker": "studentInfo\\mainFrm.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\mainFrm.vb",
+              "RelativeToolTip": "studentInfo\\mainFrm.vb",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T07:07:52.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "studentlist.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentlist.vb",
+              "RelativeDocumentMoniker": "studentInfo\\studentlist.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentlist.vb",
+              "RelativeToolTip": "studentInfo\\studentlist.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-08T08:42:25.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "viewRoom.vb",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\viewRoom.vb",
+              "RelativeDocumentMoniker": "studentInfo\\viewRoom.vb",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\viewRoom.vb",
+              "RelativeToolTip": "studentInfo\\viewRoom.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4vxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-08T12:41:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "studentAdd.resx",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentAdd.resx",
+              "RelativeDocumentMoniker": "studentInfo\\studentAdd.resx",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive - oxfordcollege.edu.np\\Desktop\\classActivity\\dotNet\\Mini Project\\studentInfo\\studentInfo\\studentAdd.resx",
+              "RelativeToolTip": "studentInfo\\studentAdd.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-08T07:48:07.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
